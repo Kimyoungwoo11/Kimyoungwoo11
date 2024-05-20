@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=ffffff)
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=ffffff)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=ffffff)
+![spring](https://img.shields.io/badge/spring-6DB33Fsvg?&style=for-the-badge&logo=spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+
 
 ### 🚌 Top Langs
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimyoungwoo11&theme=radical)<br>
