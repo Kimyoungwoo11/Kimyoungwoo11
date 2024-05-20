@@ -46,7 +46,10 @@ Here are some ideas to get you started:
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=ffffff)
 
 ### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimyoungwoo11&layout=)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimyoungwoo11&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimyoungwoo11&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimyoungwoo11&layout=donut-vertical)
+
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=Kimyoungwoo11)](https://solved.ac/profile/Kimyoungwoo11)
