@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 
 ### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=Kimyoungwoo11)](https://solved.ac/profile/Kimyoungwoo11)
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=Kyw090966)](https://solved.ac/profile/Kyw090966)
